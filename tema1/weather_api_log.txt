@@ -1,0 +1,2219 @@
+{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.99,
+         "feels_like": 271.42,
+         "temp_min": 275.93,
+         "temp_max": 276.15,
+         "pressure": 1003,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582809526,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.24919342994689941"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.08,
+         "feels_like": 271.52,
+         "temp_min": 275.93,
+         "temp_max": 276.48,
+         "pressure": 1003,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582810825,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.28063488006591797"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.48,
+         "feels_like": 272.34,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 3.6,
+         "deg": 320
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582812293,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.25463294982910156"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.48,
+         "feels_like": 271.99,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582813740,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.26288294792175293"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.22,
+         "feels_like": 270.24,
+         "temp_min": 275.15,
+         "temp_max": 277.59,
+         "pressure": 1002,
+         "humidity": 80
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582813773,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.3009836673736572"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.24432682991027832"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.2,
+         "feels_like": 271.66,
+         "temp_min": 275.93,
+         "temp_max": 276.48,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582813611,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.2856178283691406"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.2384932041168213"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.22,
+         "feels_like": 270.24,
+         "temp_min": 275.15,
+         "temp_max": 277.59,
+         "pressure": 1002,
+         "humidity": 80
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582813773,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.23566031455993652"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.48,
+         "feels_like": 271.99,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582813740,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.23837566375732422"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.26,
+         "feels_like": 270.28,
+         "temp_min": 275.15,
+         "temp_max": 277.59,
+         "pressure": 1002,
+         "humidity": 80
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582814107,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.4709055423736572"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.31926655769348145"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.2,
+         "feels_like": 271.66,
+         "temp_min": 275.93,
+         "temp_max": 276.48,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582813611,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.24793338775634766"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.2,
+         "feels_like": 271.66,
+         "temp_min": 275.93,
+         "temp_max": 276.48,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582813611,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.24733948707580566"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.72,
+         "feels_like": 272.27,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814382,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.2841494083404541"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.86,
+         "feels_like": 272.43,
+         "temp_min": 276.15,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814538,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.584587574005127"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.73,
+         "feels_like": 272.28,
+         "temp_min": 276.15,
+         "temp_max": 277.04,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814516,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.5251126289367676"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.86,
+         "feels_like": 272.43,
+         "temp_min": 276.15,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814538,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.5365903377532959"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.73,
+         "feels_like": 272.28,
+         "temp_min": 276.15,
+         "temp_max": 277.04,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814516,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.7529833316802979"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.73,
+         "feels_like": 272.28,
+         "temp_min": 276.15,
+         "temp_max": 277.04,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814516,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.5353546142578125"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.86,
+         "feels_like": 272.43,
+         "temp_min": 276.15,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814538,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.496992826461792"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.24,
+         "feels_like": 270.26,
+         "temp_min": 275.15,
+         "temp_max": 277.59,
+         "pressure": 1002,
+         "humidity": 80
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582814492,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.5814516544342041"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.24,
+         "feels_like": 270.26,
+         "temp_min": 275.15,
+         "temp_max": 277.59,
+         "pressure": 1002,
+         "humidity": 80
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 75
+      },
+      "dt": 1582814492,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.49909138679504395"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.86,
+         "feels_like": 272.43,
+         "temp_min": 276.15,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 93
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.1,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582814538,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.5804617404937744"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.8711979389190674"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.7111496925354004"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.7411394119262695"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.74,
+         "feels_like": 271.76,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816581,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.7903780937194824"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.7326700687408447"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.7225866317749023"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.87,
+         "feels_like": 268.64,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816549,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.7423710823059082"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.7376992702484131"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.7297508716583252"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.677363395690918"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.87,
+         "feels_like": 268.64,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816549,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.7375845909118652"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.74,
+         "feels_like": 271.76,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816581,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.7386634349822998"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.74542236328125"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.7032358646392822"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.7259747982025146"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.74,
+         "feels_like": 271.76,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816581,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.7667007446289062"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.721235990524292"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.6690425872802734"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.7269642353057861"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Suceava&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.25,
+         "lat": 47.63
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.87,
+         "feels_like": 268.64,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816549,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779661,
+         "sunset": 1582818902
+      },
+      "timezone": 7200,
+      "id": 665850,
+      "name": "Suceava",
+      "cod": 200
+   },
+   "latency": "0.6741175651550293"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Vaslui&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.73,
+         "lat": 46.63
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 277.09,
+         "feels_like": 272.17,
+         "temp_min": 277.04,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816587,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779233,
+         "sunset": 1582818619
+      },
+      "timezone": 7200,
+      "id": 663118,
+      "name": "Vaslui",
+      "cod": 200
+   },
+   "latency": "0.5339350700378418"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Botosani&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 26.67,
+         "lat": 47.75
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 275.9,
+         "feels_like": 268.68,
+         "temp_min": 274.26,
+         "temp_max": 277.59,
+         "pressure": 1001,
+         "humidity": 74
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 7.2,
+         "deg": 330
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582816593,
+      "sys": {
+         "type": 1,
+         "id": 6923,
+         "country": "RO",
+         "sunrise": 1582779570,
+         "sunset": 1582818792
+      },
+      "timezone": 7200,
+      "id": 684039,
+      "name": "Botosani",
+      "cod": 200
+   },
+   "latency": "0.6911520957946777"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.8277857303619385"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.74,
+         "feels_like": 271.76,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816581,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.8407855033874512"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.74,
+         "feels_like": 271.76,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 86
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 4.6,
+         "deg": 300
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582816581,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "0.5778374671936035"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "0.6878743171691895"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Bucuresti&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "cod": "404",
+      "message": "city not found"
+   },
+   "latency": "4.79362154006958"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Iasi&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 27.6,
+         "lat": 47.17
+      },
+      "weather": [
+         {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 276.73,
+         "feels_like": 271.06,
+         "temp_min": 275.93,
+         "temp_max": 277.15,
+         "pressure": 1002,
+         "humidity": 89
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.7,
+         "deg": 320
+      },
+      "clouds": {
+         "all": 40
+      },
+      "dt": 1582819488,
+      "sys": {
+         "type": 1,
+         "id": 6916,
+         "country": "RO",
+         "sunrise": 1582779304,
+         "sunset": 1582818611
+      },
+      "timezone": 7200,
+      "id": 675810,
+      "name": "Iasi",
+      "cod": 200
+   },
+   "latency": "2.6127986907958984"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Cluj&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 23.82,
+         "lat": 46.65
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 279.19,
+         "feels_like": 271.98,
+         "temp_min": 279.15,
+         "temp_max": 279.26,
+         "pressure": 1004,
+         "humidity": 48
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 6.7,
+         "deg": 290
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582819568,
+      "sys": {
+         "type": 1,
+         "id": 6913,
+         "country": "RO",
+         "sunrise": 1582780172,
+         "sunset": 1582819557
+      },
+      "timezone": 7200,
+      "id": 681291,
+      "name": "Cluj",
+      "cod": 200
+   },
+   "latency": "5.828866243362427"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Cluj&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 23.82,
+         "lat": 46.65
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 279.19,
+         "feels_like": 271.98,
+         "temp_min": 279.15,
+         "temp_max": 279.26,
+         "pressure": 1004,
+         "humidity": 48
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 6.7,
+         "deg": 290
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582819568,
+      "sys": {
+         "type": 1,
+         "id": 6913,
+         "country": "RO",
+         "sunrise": 1582780172,
+         "sunset": 1582819557
+      },
+      "timezone": 7200,
+      "id": 681291,
+      "name": "Cluj",
+      "cod": 200
+   },
+   "latency": "0.3123190402984619"
+}{
+   "request": "GEThttps://api.openweathermap.org/data/2.5/weather?q=Cluj&appid=37372855ece0abf645d135907f5b0f02",
+   "response": {
+      "coord": {
+         "lon": 23.82,
+         "lat": 46.65
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 279.19,
+         "feels_like": 271.98,
+         "temp_min": 279.15,
+         "temp_max": 279.26,
+         "pressure": 1004,
+         "humidity": 48
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 6.7,
+         "deg": 290
+      },
+      "clouds": {
+         "all": 20
+      },
+      "dt": 1582819568,
+      "sys": {
+         "type": 1,
+         "id": 6913,
+         "country": "RO",
+         "sunrise": 1582780172,
+         "sunset": 1582819557
+      },
+      "timezone": 7200,
+      "id": 681291,
+      "name": "Cluj",
+      "cod": 200
+   },
+   "latency": "0.29678845405578613"
+}

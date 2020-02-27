@@ -1,0 +1,897 @@
+{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-15": {
+            "quarter": 2,
+            "day": "7",
+            "month": "5",
+            "db": "2016-05-15",
+            "long": "Sunday, May 15th, 2016",
+            "unix": 1463292000
+         }
+      }
+   },
+   "latency": "1.0288212299346924"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-07-21": {
+            "quarter": 3,
+            "day": "4",
+            "month": "7",
+            "db": "2016-07-21",
+            "long": "Thursday, July 21st, 2016",
+            "unix": 1469080800
+         }
+      }
+   },
+   "latency": "1.1612133979797363"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-01-31": {
+            "quarter": 1,
+            "day": "7",
+            "month": "1",
+            "db": "2016-01-31",
+            "long": "Sunday, January 31st, 2016",
+            "unix": 1454223600
+         }
+      }
+   },
+   "latency": "0.9978621006011963"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-10": {
+            "quarter": 2,
+            "day": "2",
+            "month": "5",
+            "db": "2016-05-10",
+            "long": "Tuesday, May 10th, 2016",
+            "unix": 1462860000
+         }
+      }
+   },
+   "latency": "0.9315705299377441"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-06-19": {
+            "quarter": 2,
+            "day": "7",
+            "month": "6",
+            "db": "2016-06-19",
+            "long": "Sunday, June 19th, 2016",
+            "unix": 1466316000
+         }
+      }
+   },
+   "latency": "1.0250647068023682"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-06-05": {
+            "quarter": 2,
+            "day": "7",
+            "month": "6",
+            "db": "2016-06-05",
+            "long": "Sunday, June 5th, 2016",
+            "unix": 1465106400
+         }
+      }
+   },
+   "latency": "0.8014404773712158"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-12-14": {
+            "quarter": 4,
+            "day": "3",
+            "month": "12",
+            "db": "2016-12-14",
+            "long": "Wednesday, December 14th, 2016",
+            "unix": 1481698800
+         }
+      }
+   },
+   "latency": "0.8952984809875488"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-07-20": {
+            "quarter": 3,
+            "day": "3",
+            "month": "7",
+            "db": "2016-07-20",
+            "long": "Wednesday, July 20th, 2016",
+            "unix": 1468994400
+         }
+      }
+   },
+   "latency": "0.9193077087402344"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-31": {
+            "quarter": 2,
+            "day": "2",
+            "month": "5",
+            "db": "2016-05-31",
+            "long": "Tuesday, May 31st, 2016",
+            "unix": 1464674400
+         }
+      }
+   },
+   "latency": "1.0911228656768799"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-17": {
+            "quarter": 3,
+            "day": "3",
+            "month": "8",
+            "db": "2016-08-17",
+            "long": "Wednesday, August 17th, 2016",
+            "unix": 1471413600
+         }
+      }
+   },
+   "latency": "0.8413853645324707"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-02": {
+            "quarter": 2,
+            "day": "1",
+            "month": "5",
+            "db": "2016-05-02",
+            "long": "Monday, May 2nd, 2016",
+            "unix": 1462168800
+         }
+      }
+   },
+   "latency": "0.8257734775543213"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-11": {
+            "quarter": 3,
+            "day": "7",
+            "month": "9",
+            "db": "2016-09-11",
+            "long": "Sunday, September 11th, 2016",
+            "unix": 1473573600
+         }
+      }
+   },
+   "latency": "7.232650518417358"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-03-10": {
+            "quarter": 1,
+            "day": "4",
+            "month": "3",
+            "db": "2016-03-10",
+            "long": "Thursday, March 10th, 2016",
+            "unix": 1457593200
+         }
+      }
+   },
+   "latency": "0.7445597648620605"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-18": {
+            "quarter": 3,
+            "day": "4",
+            "month": "8",
+            "db": "2016-08-18",
+            "long": "Thursday, August 18th, 2016",
+            "unix": 1471500000
+         }
+      }
+   },
+   "latency": "0.7297079563140869"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-11-11": {
+            "quarter": 4,
+            "day": "5",
+            "month": "11",
+            "db": "2016-11-11",
+            "long": "Friday, November 11th, 2016",
+            "unix": 1478847600
+         }
+      }
+   },
+   "latency": "0.7176220417022705"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-12-18": {
+            "quarter": 4,
+            "day": "7",
+            "month": "12",
+            "db": "2016-12-18",
+            "long": "Sunday, December 18th, 2016",
+            "unix": 1482044400
+         }
+      }
+   },
+   "latency": "0.7359516620635986"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-12-08": {
+            "quarter": 4,
+            "day": "4",
+            "month": "12",
+            "db": "2016-12-08",
+            "long": "Thursday, December 8th, 2016",
+            "unix": 1481180400
+         }
+      }
+   },
+   "latency": "1.1736161708831787"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-02": {
+            "quarter": 3,
+            "day": "5",
+            "month": "9",
+            "db": "2016-09-02",
+            "long": "Friday, September 2nd, 2016",
+            "unix": 1472796000
+         }
+      }
+   },
+   "latency": "0.965604305267334"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-02-18": {
+            "quarter": 1,
+            "day": "4",
+            "month": "2",
+            "db": "2016-02-18",
+            "long": "Thursday, February 18th, 2016",
+            "unix": 1455778800
+         }
+      }
+   },
+   "latency": "0.9242031574249268"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-12-01": {
+            "quarter": 4,
+            "day": "4",
+            "month": "12",
+            "db": "2016-12-01",
+            "long": "Thursday, December 1st, 2016",
+            "unix": 1480575600
+         }
+      }
+   },
+   "latency": "1.016542911529541"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-04-10": {
+            "quarter": 2,
+            "day": "7",
+            "month": "4",
+            "db": "2016-04-10",
+            "long": "Sunday, April 10th, 2016",
+            "unix": 1460268000
+         }
+      }
+   },
+   "latency": "1.0549209117889404"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-16": {
+            "quarter": 3,
+            "day": "2",
+            "month": "8",
+            "db": "2016-08-16",
+            "long": "Tuesday, August 16th, 2016",
+            "unix": 1471327200
+         }
+      }
+   },
+   "latency": "0.9387016296386719"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-05": {
+            "quarter": 3,
+            "day": "1",
+            "month": "9",
+            "db": "2016-09-05",
+            "long": "Monday, September 5th, 2016",
+            "unix": 1473055200
+         }
+      }
+   },
+   "latency": "0.9613227844238281"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-11-17": {
+            "quarter": 4,
+            "day": "4",
+            "month": "11",
+            "db": "2016-11-17",
+            "long": "Thursday, November 17th, 2016",
+            "unix": 1479366000
+         }
+      }
+   },
+   "latency": "0.9548516273498535"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-25": {
+            "quarter": 3,
+            "day": "4",
+            "month": "8",
+            "db": "2016-08-25",
+            "long": "Thursday, August 25th, 2016",
+            "unix": 1472104800
+         }
+      }
+   },
+   "latency": "0.954308271408081"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-06-24": {
+            "quarter": 2,
+            "day": "5",
+            "month": "6",
+            "db": "2016-06-24",
+            "long": "Friday, June 24th, 2016",
+            "unix": 1466748000
+         }
+      }
+   },
+   "latency": "1.2027769088745117"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-10-18": {
+            "quarter": 4,
+            "day": "2",
+            "month": "10",
+            "db": "2016-10-18",
+            "long": "Tuesday, October 18th, 2016",
+            "unix": 1476770400
+         }
+      }
+   },
+   "latency": "1.193202018737793"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-31": {
+            "quarter": 3,
+            "day": "3",
+            "month": "8",
+            "db": "2016-08-31",
+            "long": "Wednesday, August 31st, 2016",
+            "unix": 1472623200
+         }
+      }
+   },
+   "latency": "1.2850983142852783"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-01-26": {
+            "quarter": 1,
+            "day": "2",
+            "month": "1",
+            "db": "2016-01-26",
+            "long": "Tuesday, January 26th, 2016",
+            "unix": 1453791600
+         }
+      }
+   },
+   "latency": "1.2746858596801758"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-02-16": {
+            "quarter": 1,
+            "day": "2",
+            "month": "2",
+            "db": "2016-02-16",
+            "long": "Tuesday, February 16th, 2016",
+            "unix": 1455606000
+         }
+      }
+   },
+   "latency": "1.1879818439483643"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-03-23": {
+            "quarter": 1,
+            "day": "3",
+            "month": "3",
+            "db": "2016-03-23",
+            "long": "Wednesday, March 23rd, 2016",
+            "unix": 1458712800
+         }
+      }
+   },
+   "latency": "1.2368597984313965"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-04-01": {
+            "quarter": 2,
+            "day": "5",
+            "month": "4",
+            "db": "2016-04-01",
+            "long": "Friday, April 1st, 2016",
+            "unix": 1459490400
+         }
+      }
+   },
+   "latency": "1.131540060043335"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-10-14": {
+            "quarter": 4,
+            "day": "5",
+            "month": "10",
+            "db": "2016-10-14",
+            "long": "Friday, October 14th, 2016",
+            "unix": 1476424800
+         }
+      }
+   },
+   "latency": "1.2461860179901123"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-02-15": {
+            "quarter": 1,
+            "day": "1",
+            "month": "2",
+            "db": "2016-02-15",
+            "long": "Monday, February 15th, 2016",
+            "unix": 1455519600
+         }
+      }
+   },
+   "latency": "1.185126543045044"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-26": {
+            "quarter": 3,
+            "day": "1",
+            "month": "9",
+            "db": "2016-09-26",
+            "long": "Monday, September 26th, 2016",
+            "unix": 1474869600
+         }
+      }
+   },
+   "latency": "1.203784465789795"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-07-03": {
+            "quarter": 3,
+            "day": "7",
+            "month": "7",
+            "db": "2016-07-03",
+            "long": "Sunday, July 3rd, 2016",
+            "unix": 1467525600
+         }
+      }
+   },
+   "latency": "1.1883127689361572"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-02-02": {
+            "quarter": 1,
+            "day": "2",
+            "month": "2",
+            "db": "2016-02-02",
+            "long": "Tuesday, February 2nd, 2016",
+            "unix": 1454396400
+         }
+      }
+   },
+   "latency": "1.1956863403320312"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-04-14": {
+            "quarter": 2,
+            "day": "4",
+            "month": "4",
+            "db": "2016-04-14",
+            "long": "Thursday, April 14th, 2016",
+            "unix": 1460613600
+         }
+      }
+   },
+   "latency": "1.2427620887756348"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-01-03": {
+            "quarter": 1,
+            "day": "7",
+            "month": "1",
+            "db": "2016-01-03",
+            "long": "Sunday, January 3rd, 2016",
+            "unix": 1451804400
+         }
+      }
+   },
+   "latency": "1.2337768077850342"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-27": {
+            "quarter": 3,
+            "day": "2",
+            "month": "9",
+            "db": "2016-09-27",
+            "long": "Tuesday, September 27th, 2016",
+            "unix": 1474956000
+         }
+      }
+   },
+   "latency": "1.228266716003418"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-04-18": {
+            "quarter": 2,
+            "day": "1",
+            "month": "4",
+            "db": "2016-04-18",
+            "long": "Monday, April 18th, 2016",
+            "unix": 1460959200
+         }
+      }
+   },
+   "latency": "1.1805131435394287"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-08-05": {
+            "quarter": 3,
+            "day": "5",
+            "month": "8",
+            "db": "2016-08-05",
+            "long": "Friday, August 5th, 2016",
+            "unix": 1470376800
+         }
+      }
+   },
+   "latency": "1.1915688514709473"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-12-25": {
+            "quarter": 4,
+            "day": "7",
+            "month": "12",
+            "db": "2016-12-25",
+            "long": "Sunday, December 25th, 2016",
+            "unix": 1482649200
+         }
+      }
+   },
+   "latency": "1.1528713703155518"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-03-31": {
+            "quarter": 1,
+            "day": "4",
+            "month": "3",
+            "db": "2016-03-31",
+            "long": "Thursday, March 31st, 2016",
+            "unix": 1459404000
+         }
+      }
+   },
+   "latency": "1.1225543022155762"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-10-25": {
+            "quarter": 4,
+            "day": "2",
+            "month": "10",
+            "db": "2016-10-25",
+            "long": "Tuesday, October 25th, 2016",
+            "unix": 1477375200
+         }
+      }
+   },
+   "latency": "1.200925350189209"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-10-10": {
+            "quarter": 4,
+            "day": "1",
+            "month": "10",
+            "db": "2016-10-10",
+            "long": "Monday, October 10th, 2016",
+            "unix": 1476079200
+         }
+      }
+   },
+   "latency": "1.0865554809570312"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-27": {
+            "quarter": 2,
+            "day": "5",
+            "month": "5",
+            "db": "2016-05-27",
+            "long": "Friday, May 27th, 2016",
+            "unix": 1464328800
+         }
+      }
+   },
+   "latency": "1.1160199642181396"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-01-27": {
+            "quarter": 1,
+            "day": "3",
+            "month": "1",
+            "db": "2016-01-27",
+            "long": "Wednesday, January 27th, 2016",
+            "unix": 1453878000
+         }
+      }
+   },
+   "latency": "1.0990583896636963"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-12": {
+            "quarter": 2,
+            "day": "4",
+            "month": "5",
+            "db": "2016-05-12",
+            "long": "Thursday, May 12th, 2016",
+            "unix": 1463032800
+         }
+      }
+   },
+   "latency": "1.093151569366455"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-06-03": {
+            "quarter": 2,
+            "day": "5",
+            "month": "6",
+            "db": "2016-06-03",
+            "long": "Friday, June 3rd, 2016",
+            "unix": 1464933600
+         }
+      }
+   },
+   "latency": "1.0753695964813232"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-06-14": {
+            "quarter": 2,
+            "day": "2",
+            "month": "6",
+            "db": "2016-06-14",
+            "long": "Tuesday, June 14th, 2016",
+            "unix": 1465884000
+         }
+      }
+   },
+   "latency": "1.0888659954071045"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-03-27": {
+            "quarter": 1,
+            "day": "7",
+            "month": "3",
+            "db": "2016-03-27",
+            "long": "Sunday, March 27th, 2016",
+            "unix": 1459058400
+         }
+      }
+   },
+   "latency": "1.2888202667236328"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-05-12": {
+            "quarter": 2,
+            "day": "4",
+            "month": "5",
+            "db": "2016-05-12",
+            "long": "Thursday, May 12th, 2016",
+            "unix": 1463032800
+         }
+      }
+   },
+   "latency": "6.17965841293335"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-07-14": {
+            "quarter": 3,
+            "day": "4",
+            "month": "7",
+            "db": "2016-07-14",
+            "long": "Thursday, July 14th, 2016",
+            "unix": 1468476000
+         }
+      }
+   },
+   "latency": "11.194401264190674"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-09-08": {
+            "quarter": 3,
+            "day": "4",
+            "month": "9",
+            "db": "2016-09-08",
+            "long": "Thursday, September 8th, 2016",
+            "unix": 1473314400
+         }
+      }
+   },
+   "latency": "1.1229774951934814"
+}{
+   "request": "GEThttps://api.lrs.org/random-date-generator?num_dates=1&year=2016",
+   "response": {
+      "messages": false,
+      "data": {
+         "2016-07-10": {
+            "quarter": 3,
+            "day": "7",
+            "month": "7",
+            "db": "2016-07-10",
+            "long": "Sunday, July 10th, 2016",
+            "unix": 1468130400
+         }
+      }
+   },
+   "latency": "2.0560672283172607"
+}

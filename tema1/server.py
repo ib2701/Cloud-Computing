@@ -17,7 +17,7 @@ def date_api(year):
     r = requests.get(url=URL)
     time2 = time.time()
     data = r.json()
-    log = {"request": "GET" + URL, "response": data, "latency": str(time2 - time1)}
+    log = {"request": "GET " + URL, "response": data, "latency": str(time2 - time1)}
     f = open("date_api_log.txt", "a")
     f.write(json.dumps(log, indent=3))
     f.close()
@@ -32,7 +32,7 @@ def weather_api(location):
     r = requests.get(url=URL)
     time2 = time.time()
     data = r.json()
-    log = {"request": "GET" + URL, "response": data, "latency": str(time2 - time1)}
+    log = {"request": "GET " + URL, "response": data, "latency": str(time2 - time1)}
     f = open("weather_api_log.txt", "a")
     f.write(json.dumps(log, indent=3))
     f.close()
@@ -45,7 +45,7 @@ def nasa_api(lat, lon, date):
     r = requests.get(url=URL)
     time2 = time.time()
     data = r.json()
-    log = {"request": "GET" + URL, "response": data, "latency": str(time2 - time1)}
+    log = {"request": "GET " + URL, "response": data, "latency": str(time2 - time1)}
     f = open("nasa_api_log.txt", "a")
     f.write(json.dumps(log, indent=3))
     f.close()
@@ -75,14 +75,19 @@ class S(BaseHTTPRequestHandler):
             self.send_header('Content-type', 'application/json')
             self.end_headers()
 
-            with open('date_api_log.txt') as json_file:
-                content = str(json.load(json_file))
-                content += "\n\n"
-            with open('weather_api_log.txt') as json_file:
-                content += str(json.load(json_file))
-                content += "\n\n"
-            with open('nasa_api_log.txt') as json_file:
-                content += str(json.load(json_file))
+            f = open('date_api_log.txt', "r")
+            content = str(f.read())
+            content += "\n\n"
+            f.close()
+
+            f = open('weather_api_log.txt', "r")
+            content += f.read()
+            content += "\n\n"
+            f.close()
+
+            f = open('nasa_api_log.txt', "r")
+            content += f.read()
+            f.close()
 
             self.wfile.write(content.encode('utf-8'))
             return

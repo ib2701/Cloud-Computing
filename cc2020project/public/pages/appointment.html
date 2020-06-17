@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://apis.google.com/js/api.js"></script>
+    <!-- <script src="https://apis.google.com/js/platform.js" async defer></script> -->
+    <script src="javascripts/appointment.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <link rel='stylesheet' , href='stylesheets/appointment.css'>
+    <link rel="stylesheet" media="(min-width:1000px)" href="stylesheets/style.css">
+    <link rel="stylesheet" media="(max-width: 999px)" href="stylesheets/lowRez.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sen&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="index.html">Acasa</a>
+        <a href="account.html">Cont</a>
+        <a href="map.html">Harta</a>
+        <a href="appointment.html">Programari</a>
+    </nav>
+    <main class="formMain">
+    <div class="cell">
+        <h1>Programare</h1>
+        <form id="make-appointment">
+            <label for="hospitals">Spital:</label>
+            <select id="hospitals" onchange="populateDoctors()">
+                <option>--</option>
+            </select>
+            <br>
+            <label id="doctors-label" for="doctors" hidden>Medic:</label>
+            <select id="doctors" hidden onchange="populateTime()">
+            </select>
+            <br>
+            <div id="loader" class="loader" hidden></div>
+            <label id="dates-label" for="dates" hidden>Ora programarii:</label>
+            <select id="dates" hidden onchange="makeSubmitAvaialable()">
+            </select>
+            <br>
+            <!-- <button id="authBtn" onclick="authenticate().then(loadClient)">Authenticate</button> -->
+            <button type="button" id="submit-button" onclick="checkAvailability()" disabled>Trimite</button>
+            <div id="returnedMessage"></div>
+        </form>
+    </div>
+    </main>
+
+</body>
+
+</html>
